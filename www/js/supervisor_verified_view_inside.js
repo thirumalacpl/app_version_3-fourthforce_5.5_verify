@@ -2235,6 +2235,7 @@ var oneemp=addressimg_obj.document_name;
 $('#institute_inproo_veriii').text(user_obja.qualification_name);
 
 $('#name_veri').text(user_obja.name);
+
 $('#qualification_name_veri').text(user_obja.qualification_name);
 
 $('#location_veri').text(user_obja.city_name);
